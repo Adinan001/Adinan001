@@ -1,6 +1,6 @@
 # Olá, eu sou o Adinan da Rocha Lima! 👋
 
-Conectando o universo do **Direito** e da **Inteligência Policial** à **Engenharia de Computação** para construir LegalTechs robustas, automações avançadas e sistemas integrados com IA.
+Conectando o universo do **Direito**  à **Engenharia de Computação** para construir LegalTechs robustas, automações avançadas e sistemas integrados com IA.
 
 ---
 
@@ -9,7 +9,7 @@ Conectando o universo do **Direito** e da **Inteligência Policial** à **Engenh
 Profissional de perfil híbrido que une sólida bagagem jurídica e operacional à paixão pelo desenvolvimento de software. Com mais de 20 anos de experiência em gestão administrativa, inteligência e seção jurídica na Polícia Militar, hoje aplico essa capacidade analítica na **Engenharia de Computação** para transformar problemas reais do ecossistema legal em soluções tecnológicas de ponta.
 
 - 📍 **Localização:** Sorocaba/SP
-- 🚀 **Foco Atual:** Arquitetura de sistemas desktop com isolamento de processos, sistemas multi-agentes de IA e processamento de dados jurídicos (Datajud/CNJ).
+- 🚀 **Foco Atual:** Desenvolvimento Full-Stack Desktop, unindo interfaces modernas e responsivas no Front-end (PyQt/PySide) a arquiteturas robustas no Back-end, com isolamento de processos, sistemas multi-agentes de IA (RAG) e automação avançada de extração de dados e integração com plataformas e sistemas jurídicos.
 
 ---
 
@@ -17,7 +17,7 @@ Profissional de perfil híbrido que une sólida bagagem jurídica e operacional 
 
 - **Linguagens:** Python, SQL, MQL (MetaTrader)
 - **Interfaces Gráficas (GUI):** PyQt6 / PyQt5 (Sistemas Desktop robustos)
-- **Inteligência Artificial & Dados:** Integração com LLMs (Gemini, Groq, Claude), Arquitetura RAG (Retrieval-Augmented Generation), Sistemas Multi-Agente, Embeddings e Bancos Vetoriais (ChromaDB)
+- **Dados:** Integração com LLMs (Gemini, Groq, Claude), Arquitetura RAG (Retrieval-Augmented Generation), Sistemas Multi-Agente, Embeddings e Bancos Vetoriais (ChromaDB)
 - **Back-end & Integrações:** SQLite, APIs REST, Integração nativa com a API do Datajud (CNJ)
 - **Ferramentas:** Git/GitHub, Automação de Processos, Geração Automatizada de Documentos (DOCX/PDF)
 
