@@ -17,6 +17,16 @@ Python · Node.js · PyQt6 · SQL · LLMs · RAG
 
 ---
 
+<div align="center">
+
+[![3D Profile](https://github.com/Adinan001/Adinan001/actions/workflows/profile-3d.yml/badge.svg)](https://github.com/Adinan001/Adinan001/actions/workflows/profile-3d.yml)
+
+<!-- Gerado pela GitHub Action github-profile-3d-contrib -->
+<img src="profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D contribution graph"/>
+</div>
+
+---
+
 ### 📬 Vamos nos conectar?
 
 - **LinkedIn:** [linkedin.com/in/adinan-lima-7a17402b9](https://www.linkedin.com/in/adinan-lima-7a17402b9)
